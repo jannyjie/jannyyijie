@@ -1106,6 +1106,9 @@ nav.categories {
 ul.portfolio_filter li {
     padding: 0 10px;
 }
+@media only screen and (max-width: 1024px){
+   .box-intro:before {font-size: 200px;}
+}
 @media only screen and (max-width: 425px){
 .categories-grid{ padding: 10px 10px 0 10px;}
 .portfolio_item{padding: 10px;}

@@ -21,7 +21,9 @@ body {
 }
 section{padding: 100px 0;}
 
-
+article {
+    padding: 0 20px;
+}
 /*----------------------------*/
 /*wed*/
 /*----------------------------*/
@@ -234,9 +236,8 @@ section{padding: 100px 0;}
 /*wed*/
 /*----------------------------*/
 .wed-Show > div {
-   width: 91%;
-   height: 367px;
-   margin: 39px auto;
+    height: 408px;
+    margin: 39px auto;
 }
 /*----------------------------*/
 /*wed*/
