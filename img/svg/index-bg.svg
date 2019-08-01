@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 686.2 234" style="enable-background:new 0 0 686.2 234;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EBCECB;}
+	@keyframes scale {  /*定义关键帧、scaleDrew是需要绑定到选择器的关键帧名称*/
+            0%{
+                 transform: translate(0, 0);  /*开始为原始大小*/
+            }
+            25%{
+                transform: translate(-27px, 40px); /*放大1.1倍*/
+                opacity: 1;
+            }
+            50%{
+                transform: translate(0, 0);
+                opacity: 0;
+            }
+            75%{
+                transform: translate(-27px, 40px);
+                opacity: 1;
+            }
+        }
+    .a{
+      opacity: 0;
+      -webkit-animation-name: scale; /*关键帧名称*/
+      -webkit-animation-timing-function: ease-in-out; /*动画的速度曲线*/
+      -webkit-animation-iteration-count: infinite;  /*动画播放的次数*/
+      -webkit-animation-duration: 5s; /*动画所花费的时间*/
+    }
+	@keyframes scaleDraw {  /*定义关键帧、scaleDrew是需要绑定到选择器的关键帧名称*/
+            0%{
+                transform: scale(1);  /*开始为原始大小*/
+            }
+            25%{
+                transform: scale(1.05); /*放大1.1倍*/
+                opacity: 1;
+            }
+            50%{
+                transform: scale(1);
+                opacity: 0;
+            }
+            75%{
+                transform: scale(1.05);
+                opacity: 1;
+            }
+        }
+    .b{
+      opacity: 0;
+      -webkit-animation-name: scaleDraw; /*关键帧名称*/
+      -webkit-animation-timing-function: ease-in-out; /*动画的速度曲线*/
+      -webkit-animation-iteration-count: infinite;  /*动画播放的次数*/
+      -webkit-animation-duration: 5s; /*动画所花费的时间*/
+    }
+    .c{
+      opacity: 0;
+      -webkit-animation-name: scaleDraw; /*关键帧名称*/
+      -webkit-animation-timing-function: ease-in-out; /*动画的速度曲线*/
+      -webkit-animation-iteration-count: infinite;  /*动画播放的次数*/
+      -webkit-animation-duration: 5s; /*动画所花费的时间*/
+      -webkit-animation-delay: 1s; /*第二个span动画延迟1.5秒*/
+    }
+    .d{
+      opacity: 0;
+      -webkit-animation-name: scaleDraw; /*关键帧名称*/
+      -webkit-animation-timing-function: ease-in-out; /*动画的速度曲线*/
+      -webkit-animation-iteration-count: infinite;  /*动画播放的次数*/
+      -webkit-animation-duration: 5s; /*动画所花费的时间*/
+      -webkit-animation-delay: 1.5s; /*第二个span动画延迟1.5秒*/
+    }
+    .f{
+      opacity: 0;
+      -webkit-animation-name: scaleDraw; /*关键帧名称*/
+      -webkit-animation-timing-function: ease-in-out; /*动画的速度曲线*/
+      -webkit-animation-iteration-count: infinite;  /*动画播放的次数*/
+      -webkit-animation-duration: 5s; /*动画所花费的时间*/
+      -webkit-animation-delay: 2s; /*第二个span动画延迟1.5秒*/
+    }
+</style>
+<g class="a">
+	<rect x="305.1" y="75.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 54.686 284.7585)" class="st0" width="132" height="1"/>
+</g>
+<g class="b">
+	<path class="st0" d="M427.5,228.3L400.8,211l30.1-10.3L427.5,228.3z M403.1,211.3l23.6,15.3l3-24.4L403.1,211.3z"/>
+</g>
+<g class="c">
+	<path class="st0" d="M31.5,77.3L4.8,60l30.1-10.3L31.5,77.3z M7.1,60.3l23.6,15.3l3-24.4L7.1,60.3z"/>
+</g>
+<g class="d">
+	<path class="st0" d="M629,22.4c-4.2,0-7.7-3.4-7.7-7.7s3.4-7.7,7.7-7.7s7.7,3.4,7.7,7.7S633.2,22.4,629,22.4z M629,8.1
+		c-3.7,0-6.7,3-6.7,6.7c0,3.7,3,6.7,6.7,6.7s6.7-3,6.7-6.7C635.7,11,632.7,8.1,629,8.1z"/>
+</g>
+<g class="f"> 
+	<path class="st0" d="M671,187.4c-4.2,0-7.7-3.4-7.7-7.7s3.4-7.7,7.7-7.7s7.7,3.4,7.7,7.7S675.2,187.4,671,187.4z M671,173.1
+		c-3.7,0-6.7,3-6.7,6.7c0,3.7,3,6.7,6.7,6.7s6.7-3,6.7-6.7C677.7,176,674.7,173.1,671,173.1z"/>
+</g>
+</svg>
