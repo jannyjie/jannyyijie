@@ -19,6 +19,9 @@ body {
   padding: 0;
   position: relative;
 }
+article {
+    padding: 0 20px;
+}
 a {
     text-decoration: none;
     color: inherit;
@@ -1108,6 +1111,7 @@ ul.portfolio_filter li {
 }
 @media only screen and (max-width: 1024px){
    .box-intro:before {font-size: 200px;}
+   article {padding: 0 50px;}
 }
 @media only screen and (max-width: 425px){
 .categories-grid{ padding: 10px 10px 0 10px;}
