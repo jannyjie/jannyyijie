@@ -243,23 +243,32 @@ section{padding: 100px 0;}
 }
 
 @media only screen and (max-width: 425px){
+section {padding: 50px 0;}
 .d-m-no{display: none;}
-/*----------------------------*/
-/*wed*/
-/*----------------------------*/
-.wed-Show {
-    background-image: url(../img/M.png);
-    background-size: 70%;
-    background-position: center;
-    margin: 80px 0;
-    height: 542px;
+.color-m{width: 18%;}
+.color-m > div{height: 50px;}
+.color-m p {
+    font-size: 12px;
+    font-weight: 100;
+    padding: 5px 0;
 }
-.wed-Show > div {
-    width: 63.9%;
-    height: 395px;
-    margin: 67px auto;
+.col-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 90%;
+    max-width: 90%;
 }
-/*----------------------------*/
-/*wed*/
-/*----------------------------*/
+.page_subtitle{    font-size: 1rem;    margin: 0 0 5px 0;}
+.intro-text p , .intro-text1 p {
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 1.2;
+    padding-top: 5px;
+}
+.intro-text, .intro-text1 {
+    top: 71%;
+    width: 47%;
+    padding: 5% 2%;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.15);
+}
 }
