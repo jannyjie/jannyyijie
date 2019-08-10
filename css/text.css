@@ -229,6 +229,8 @@ section{padding: 100px 0;}
 /*----------------------------*/
 /*wed-page*/
 /*----------------------------*/
+.d-m{display: none;}
+.m-auto{margin: 0 auto;}
 @media only screen and (max-width: 1024px){
 /*----------------------------*/
 /*wed*/
@@ -245,6 +247,7 @@ section{padding: 100px 0;}
 @media only screen and (max-width: 425px){
 section {padding: 50px 0;}
 .d-m-no{display: none;}
+.d-m{display: block;}
 .color-m{width: 18%;}
 .color-m > div{height: 50px;}
 .color-m p {
